@@ -18,3 +18,9 @@ This project investigates how **evening screen use** affects **next-morning aler
 - Optimize evening screen habits to improve morning alertness
 - Inform digital hygiene and circadian-friendly routines
 - Serve as a model for larger, multi-participant studies
+
+## Powerpoint
+https://www.canva.com/design/DAHBuAz_eeE/9BrqeIfm3g5lN9B7X_COlw/edit?utm_content=DAHBuAz_eeE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+## Google Collab Notebook
+https://colab.research.google.com/drive/112g-KUA-U9f8upNlkAjaOUKphX7RO8WL?usp=sharing
