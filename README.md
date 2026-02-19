@@ -1,4 +1,4 @@
-# Morning After: Late-Night Screen Time & Morning Alertness
+# Morning After: How Late-Night Screen Time Affects Morning Alertness Independent of Sleep Duration
 
 ## Overview
 This project investigates how **evening screen use** affects **next-morning alertness**, independent of sleep duration. Using **63 days of self-tracked data**, the study examines:
